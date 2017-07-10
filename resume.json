@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Michael Horvath",
+    "label": "Data Scientist",
+    "picture": "",
+    "email": "michaelhorvath87@gmail.com",
+    "phone": "(845) 309-4388",
+    "summary": "Michael is a Kansas City native, with a fierce interest in artificial intelligence and human cognition. With a background in Psychology and Statistics from the University of Kansas, he is currently exploring machine learning from the ground up. While he may put you to sleep explaining how cool it is that machines can learn at all, you might find it more enjoyable to ask about his dog Bruno.",
+    "location": {
+      "address": "200 Main St #101",
+      "postalCode": "MO, 64105",
+      "city": "Kansas City",
+      "countryCode": "US",
+      "region": "Kansas City Area"
+    },
+    "profiles": [
+      {
+        "network": "github.com/kwisatzheadache"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Kansas",
+      "position": "Research Assistant",
+      "startDate": "2010-07",
+      "endDate": "2011-12",
+      "summary": "Reconstruction, testing, and validating of the ARC Self-Determination Scale, and collaboration on the Program Evaluation Team",
+      "highlights": [
+        "Improved reliability, validity, and ease-of-use of a national-scale report.",
+        "Presented findings to ARC SDS committee and the Undergraduate Research Symposium",
+        "Development and administration of surveys via RedCAP data platform"
+      ]
+    },
+    {
+      "company": "MH Properties",
+      "position": "Property Manager",
+      "startDate": "2009-07",
+      "endDate": "2015-12"
+    },
+    {
+      "company": "Self",
+      "position": "Carpenter",
+      "startDate": "2014-07",
+      "endDate": "2015-12"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Kaw Valley Soccer Association",
+      "position": "Coach",
+      "startDate": "2015-04",
+      "endDate": "2015-08"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Kansas",
+      "area": "Psychology, Social and Behavioral Sciences Methodologies",
+      "studyType": "Bachelor of Arts, with Honors",
+      "startDate": "2006-08",
+      "endDate": "2011-06"
+    },
+    {
+      "institution": "University of Osnabrueck",
+      "area": "Cognitive Science",
+      "startDate": "2015-08",
+      "endDate": "2016-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "CalTech Signature Award",
+      "date": "2005-06",
+      "awarder": "CalTech",
+      "summary": "Innovative and creative thinking in mathematics and sciences"
+    },
+    {
+      "title": "National Merit Scholar",
+      "date": "2006-06",
+      "awarder": "National Merit Society",
+      "summary": "Outstanding academic and extra-curricular achievement"
+    },
+    {
+      "title": "Dean's Scholar",
+      "date": "2007-2011",
+      "awarder": "University of Kansas",
+      "summary": "Excellence in academic achievement"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "TensorFlow",
+        "Elixir",
+        "CUDA and nVidia",
+        "Python",
+        "Node.js",
+        "Erlang"
+      ]
+    },
+    {
+      "name": "Statistics and Data Analysis",
+      "keywords": [
+        "Multivariate Regression Analysis",
+        "Structural Equation Modeling",
+        "Missing Data",
+        "Power Analysis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Conversational"
+    }
+  ],
+  "references": [
+    {
+      "name": "Michael Vanasse",
+      "reference": "He's a pretty cool guy."
+    }
+  ]
+}
