@@ -1,2 +1,2 @@
-# Michael Horvath Resume
-https://registry.jsonresume.org/kwisatzheadache
+# Michael Horvath's Resume
+Can be found [here.](https://registry.jsonresume.org/kwisatzheadache)
