@@ -46,7 +46,7 @@ work
     Collaboration with Program Evaluation Team to assess and evaluate various inter-departmental education grants for the purpose of grant submission, evaluation, and renewal.
 	+    Translated goals and priorities of education grant to identifiable, measurable outcomes.
 	+    Acted as liaison between Program Evaluation Team and clientele to explain technical results and communicate project goals.
-	+    Developed, deployed, and administered training grant evaluation surveys, using REDCap.
+	+    Developed, deployed, and administered training grant evaluation surveys, gathering outcome data concerning program success and student outcomes, using REDCap.
 	+    Data entry, cleaning, and database manipulation.
 	+    Protocol revisioning, client intake assessment, and ticket-writing.
 	+    Powerpoint, version control, meeting notes, proofreading.
