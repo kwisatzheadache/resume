@@ -7,7 +7,7 @@ michaelhorvath87@gmail.com, 845-309-4388
 Summary
 ---------
 
-*   Michael is a Kansas City native, with a fierce interest in artificial intelligence and human cognition. With a background in Psychology and Statistics from the University of Kansas, he is currently exploring machine learning from the ground up. While he may put you to sleep explaining how cool it is that machines can learn at all, you might find it more enjoyable to ask about his dog Bruno. Check out his latest work over at github.
+*   Michael is a Kansas City native, with a fierce interest in artificial intelligence and human cognition. With a background in Psychology and Statistics from the University of Kansas, he is currently exploring machine learning from the ground up. While he may put you to sleep explaining how cool it is that machines can learn at all, you might find it more enjoyable to ask about his dog Bruno. Check out his latest work over at github (https://github.com/kwisatzheadache).
 
 
 work
