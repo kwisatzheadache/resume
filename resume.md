@@ -26,6 +26,8 @@ work
 
 *   **University of Kansas** (Lawrence, KS)
 
+    *Center for Research Methods and Data Analysis*
+
     *Program Evaluation Consultant*, 2010 - 2011
 
     Reconstructed, tested, and validated the ARC Self-Determination Scale - a 72 item self-report metric for use in reporting self-determination among students with learning disabilities. Presented findings to authors and collaborators. New version, with shortened length and increased validity and reliability is included in the latest iteration of the National Longitudinal Transition Study (NLTS-2), administered by the Department of Education.
