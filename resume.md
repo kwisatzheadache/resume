@@ -15,14 +15,18 @@ work
 
 *   **Contractor**
 
-    *Data Scientist*
+    *Data Scientist*, 2017
 
-    Developed a neural net constructor from the ground up in Elixir, with flexibility concerning training techniques, neural density, supervised learning, and unsupervised learning. 
-	+    Elixir, Erlang, neural nets, learning algorithms.
+    Developed a neural net constructor from the ground up in Elixir, to improve understanding of machine learning at its most basic level.
+	+    Elixir, for it's utility as a concurrent, fault-tolerant design.
+	+    Allowed for modification of all nodes, hidden layers, and activation functions.
+	+    Included a genotypic visualizer to map out the literal neurons and connections within the neural net.
 
-    Deployed various TensorFlow machine learning programs, ranging from style-transfer to binary-classification, regression, and multi-class classification, on Google Cloud Computing platform to evaluate performance across various hyperparameters. Explored optimal neural net configurations and validation techniques.
-	+    Python, Elixir, numpy, scipy, TensorFlow, Node.js.
-	+    Machine Learning, Keras libraries, nVidia Cudda libraries, Google Cloud Computing, K-fold validation.
+    Deployed various machine learning programs, ranging from style-transfer to binary-classification, regression, and multi-class classification, on Google Cloud Computing platform to evaluate performance across various hyperparameters. Explored optimal neural net configurations and validation techniques.
+	+    Installation of TensorFlow with nVidia Cudda libraries to accelerate processing via GPU utilization.
+	+    Configuration of TensorFlow environment for docker, virtual environment, native, and cloud-based use.
+	+    Explored optimal neural net configurations and validation techniques, including K-fold validation, recurrent neural nets, and feed-forward neural nets.
+	+    Python and associated machine learning libraries, including numpy, scipy, Keras, and MNIST.
 
 *   **University of Kansas** (Lawrence, KS)
 
@@ -30,14 +34,21 @@ work
 
     *Program Evaluation Consultant*, 2010 - 2011
 
-    Reconstructed, tested, and validated the ARC Self-Determination Scale - a 72 item self-report metric for use in reporting self-determination among students with learning disabilities. Presented findings to authors and collaborators. New version, with shortened length and increased validity and reliability is included in the latest iteration of the National Longitudinal Transition Study (NLTS-2), administered by the Department of Education.
-	+    SAS, LISREL, MPLus, R, Matlab, SPSS.
-	+    Structural equation modeling, power analysis, validity testing, missing data, bootstrapping.
+    Reconstructed the ARC Self-Determination Scale - a 72 item self-report metric for use in reporting self-determination among students with learning disabilities. Presented findings to authors and collaborators. New version, with shortened length and increased validity and reliability is included in the latest iteration of the National Longitudinal Transition Study (NLTS-2), administered by the Department of Education.
+	+    SAS and SPSS, tested internal reliability of scale using Cronbach's alpha.
+	+    MPlus, used confirmatory factor analyses to determine construct validity of scale.
+	+    Rebuilt scale including only the most reliable and theoretically valid items, following alpha testing and CFA's.
+	+    R and MPlus, performed multiple imputation to implement planned missingness to extend usefulness of the scale.
+	+    Power anlysis and validity testing on planned missing data.
+	+    Adherance to HIPAA compliance protocols for sensitive and secure data.
+	+    Presented findings to original author and collaborators, as well as to Program Evaluation Team and research symposium.
 
-    Acted as liaison between Program Evaluation Team and clientele to explain technical results and communicate project goals.
-
-    Developed, deployed, and administered training grant evaluation surveys for use with various inter-departmental assessments. Presented findings to Program Evaluation Team, stakeholders, and research symposium.
+    Collaboration with Program Evaluation Team to assess and evaluate various inter-departmental education grants for the purpose of grant submission, evaluation, and renewal.
+	+    Translated goals and priorities of education grant to identifiable, measurable outcomes.
+	+    Acted as liaison between Program Evaluation Team and clientele to explain technical results and communicate project goals.
+	+    Developed, deployed, and administered training grant evaluation surveys, using REDCap.
 	+    Data entry, cleaning, and database manipulation.
+	+    Protocol revisioning, client intake assessment, and ticket-writing.
 	+    Powerpoint, version control, meeting notes, proofreading.
 
 *   **MH Properties**
@@ -71,9 +82,14 @@ awards
 *   **CalTech Signature Award**
 
     *CalTech*, 2006 
-    -	Innovative and Creative thinking in mathematics and sciences*
+    -	Innovative and Creative thinking in mathematics and sciences.
 
 *   **National Merit Scholar**
 
     *University of Kansas*, 2006 - 2011
-    -	Outstanding academic and extra-curricular achievement
+    -	Outstanding academic and extra-curricular achievement.
+
+*   **Dean's List Scholar**
+
+    *University of Kansas*, 2006 - 2011
+    -	Outstanding academic and achievement.
