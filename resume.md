@@ -67,13 +67,13 @@ education
 
 *   **University of Kansas** (Lawrence, KS)
 
-    *BA in Pyschology and Quantitative Methods, with Honors*, 2006 - 2011
+    *BA in Psychology and Quantitative Methods, with Honors*, 2006 - 2011
 	+    Courses in advanced statistics including multivariate power analysis, ANOVA, MANOVA, multiple imputation, linear regression, multiple regression.
 
 *   **University of Osnabrueck** (Germany)
 
     *Semester Abroad in Cognitive Science and AI*
-	+    Courses in philosohpy of the mind, human cognition, and human categorization behavior.
+	+    Courses in philosophy of the mind, human cognition, and human categorization behavior.
 	+    Converstaionally fluent in German.
 
 awards
