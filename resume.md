@@ -21,12 +21,17 @@ work
 	+    Elixir, for it's utility as a concurrent, fault-tolerant design.
 	+    Allowed for modification of all nodes, hidden layers, and activation functions.
 	+    Included a genotypic visualizer to map out the literal neurons and connections within the neural net.
+	+    Explored reinforcement learning methods to train neural net to solve Rubiks cube scape.
 
     Deployed various machine learning programs, ranging from style-transfer to binary-classification, regression, and multi-class classification, on Google Cloud Computing platform to evaluate performance across various hyperparameters. Explored optimal neural net configurations and validation techniques.
-	+    Installation of TensorFlow with nVidia Cudda libraries to accelerate processing via GPU utilization.
+	+    TensorFlow with nVidia Cudda libraries to accelerate processing via GPU utilization.
 	+    Configuration of TensorFlow environment for docker, virtual environment, native, and cloud-based use.
-	+    Explored optimal neural net configurations and validation techniques, including K-fold validation, recurrent neural nets, and feed-forward neural nets.
-	+    Python and associated machine learning libraries, including numpy, scipy, Keras, and MNIST.
+	+    Explored optimal neural net configurations and validation techniques, including K-fold validation, recurrent neural nets, and convolutional neural nets.
+	+    Python and associated machine learning libraries, including numpy, scipy, Keras, pandas and MNIST.
+
+    Explored best methods for using Long Short-Term Memoroy networks to predict variables from time series data.
+	+    Predicted Bitcoin price index based on previous price indices.  
+	+    Predicted blood sugar levels based on input from continuous glucous monitor readings.
 
 *   **University of Kansas** (Lawrence, KS)
 
