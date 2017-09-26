@@ -7,7 +7,7 @@ michaelhorvath87@gmail.com, 845-309-4388
 Summary
 ---------
 
-*   Michael is a Kansas City native, with a fierce interest in artificial intelligence and human cognition. With a background in Psychology and Statistics from the University of Kansas, he is currently exploring machine learning from the ground up. While he may put you to sleep explaining how cool it is that machines can learn at all, you might find it more enjoyable to ask about his dog Bruno. Check out his latest work over at github.
+*   Born in Kansas but world-traveled and thirsty for knowledge, Michael now thrives in the quest to unravel the unknown mysteries that lay ahead with machine learning.  His fierce intelligence and interest in human cognition provide an unending supply of drive and determination.  Graduating summa cum laude from the University of Kansas, his Psychology and Statistics background provided him with a basic tool kit, but his current exploration and command of machine learning has ignited a torrent of passion within him, transforming his array of tools into a purposeful machine.  Michael has immersed himself in this field.  His latest work at github speaks for itself.
 
 
 work
@@ -21,12 +21,17 @@ work
 	+    Elixir, for it's utility as a concurrent, fault-tolerant design.
 	+    Allowed for modification of all nodes, hidden layers, and activation functions.
 	+    Included a genotypic visualizer to map out the literal neurons and connections within the neural net.
+	+    Explored reinforcement learning methods to train neural net to solve Rubiks cube scape.
 
     Deployed various machine learning programs, ranging from style-transfer to binary-classification, regression, and multi-class classification, on Google Cloud Computing platform to evaluate performance across various hyperparameters. Explored optimal neural net configurations and validation techniques.
-	+    Installation of TensorFlow with nVidia Cudda libraries to accelerate processing via GPU utilization.
+	+    TensorFlow with nVidia Cudda libraries to accelerate processing via GPU utilization.
 	+    Configuration of TensorFlow environment for docker, virtual environment, native, and cloud-based use.
-	+    Explored optimal neural net configurations and validation techniques, including K-fold validation, recurrent neural nets, and feed-forward neural nets.
-	+    Python and associated machine learning libraries, including numpy, scipy, Keras, and MNIST.
+	+    Explored optimal neural net configurations and validation techniques, including K-fold validation, recurrent neural nets, and convolutional neural nets.
+	+    Python and associated machine learning libraries, including numpy, scipy, Keras, pandas and MNIST.
+
+    Explored best methods for using Long Short-Term Memory networks to predict variables from time series data.
+	+    Predicted Bitcoin price index based on previous price indices.  
+	+    Predicted blood sugar levels based on input from continuous glucous monitor readings.
 
 *   **University of Kansas** (Lawrence, KS)
 
@@ -67,13 +72,13 @@ education
 
 *   **University of Kansas** (Lawrence, KS)
 
-    *BA in Pyschology and Quantitative Methods, with Honors*, 2006 - 2011
+    *BA in Psychology and Quantitative Methods, with Honors*, 2006 - 2011
 	+    Courses in advanced statistics including multivariate power analysis, ANOVA, MANOVA, multiple imputation, linear regression, multiple regression.
 
 *   **University of Osnabrueck** (Germany)
 
     *Semester Abroad in Cognitive Science and AI*
-	+    Courses in philosohpy of the mind, human cognition, and human categorization behavior.
+	+    Courses in philosophy of the mind, human cognition, and human categorization behavior.
 	+    Converstaionally fluent in German.
 
 awards
