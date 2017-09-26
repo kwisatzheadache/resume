@@ -29,7 +29,7 @@ work
 	+    Explored optimal neural net configurations and validation techniques, including K-fold validation, recurrent neural nets, and convolutional neural nets.
 	+    Python and associated machine learning libraries, including numpy, scipy, Keras, pandas and MNIST.
 
-    Explored best methods for using Long Short-Term Memoroy networks to predict variables from time series data.
+    Explored best methods for using Long Short-Term Memory networks to predict variables from time series data.
 	+    Predicted Bitcoin price index based on previous price indices.  
 	+    Predicted blood sugar levels based on input from continuous glucous monitor readings.
 
