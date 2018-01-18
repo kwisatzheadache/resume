@@ -14,7 +14,7 @@ Work
     *Machine Learning Engineer*, 2017
     
     Data analysis and machine learning for motion sensor signal data, with emphasis on seamless pipelining and mapping research literature to procedural findings. Data preprocessing, vectorization and feature engineering in preparation for supervised and unsupervised classification. 
-    + Python, binary classification, time-series analysis, database engineering, mysql, principal component analysis.
+    + Python, classification, clustering, time-series analysis, database engineering, mysql, principal component analysis, linux.
 
 *   **Personal Projects**
 
