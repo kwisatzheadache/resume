@@ -1,0 +1,52 @@
+Skills/Languages/Tech
+- Docker
+- docker-compose
+- Django
+- Flask
+- Python3
+- PHP
+- MySQL
+- Postgres
+- Linux
+- LaTex
+- ELK
+- PowerBI
+- Javascript/CSS/HTML
+- Git
+- Cloud resources
+- AWS and Azure
+- Database design
+- Database administration
+- Nginx
+
+Fluxergy Projects
+Clinical Test Database
+- Designed database and bespoke output scraper to automate data collection to automate report generation for multiple departments. 
+- Improved uptime and scalability iteratively using dockerization and Azure webapp services.
+- Delivered real-time data to stakeholders via streamlined browser-based front-end, in addition to auto-generated spreadsheets.
+Manufacturing Operations Systems
+- Designed shop floor control system to be department agnostic, applicable in multiple areas of rapidly scaling company.
+- Maintained pre-existing systems with short turnaround times for feature requests, bug resolution, and changing requirements.
+- Laid out SRS framework to define project, limit scope creep, and improve intra-departmental communications. 
+- Delivered real-time data visualizations via PowerBI and Elasticsearch/Kibana.
+Documentation
+- Spearheaded efforts to standardize documentation via Software Requirement Specifications.
+- Experienced with ISO certification procedure and Quality Management Systems
+- Wrote wiki articles concerning SOPs, tutorials, and general information. Note - maintained a professional, yet entertaining tone to ensure that readers were minimally bored, maximally informed, and where possible, entertained.
+
+Other thoughts:
+Continual growth is key to enjoyment of life; challenge begets growth.
+Passion is a must.
+Software = Poetry + Math
+
+April 2017 - April 2018
+Embrace Healthwear
+- Developed activity classification models with biometric data to map physical therapy research to procedural findings.
+- Data preprocessing, vectorization, signal processing, and feature engineering with emphasis on pipelining.
+  
+
+Other skills
+Statistics - Linear Regression, Multiple Regression Analysis, Structural Equation Modeling, SAS, MPLus, LISREL, R, SPSS, Power Analyses
+Soft skills - Program Evaluation, Requirements Gathering, Software Design, Technical Liaison, Public Speaking, Presentation
+
+Previous Career: Property Management
